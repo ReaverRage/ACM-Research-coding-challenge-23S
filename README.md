@@ -16,6 +16,14 @@ Considering that I didn't touch any parameters on the model, it's extremely accu
 ## Visualization
 
 ![decision tree](https://github.com/ReaverRage/ACM-Research-coding-challenge-23S/blob/main/visualization.png?raw=true)
+
+The star type, denoted as integers, are translated as the following:
+- Brown Dwarf -> Star Type = 0
+- Red Dwarf -> Star Type = 1
+- White Dwarf -> Star Type = 2
+- Main Sequence -> Star Type = 3
+- Supergiant -> Star Type = 4
+- Hypergiant -> Star Type = 5
 ## Run in Colab
 
 Go to [ML_stars.ipynb](https://github.com/ReaverRage/ACM-Research-coding-challenge-23S/blob/main/ML_stars.ipynb)
