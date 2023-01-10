@@ -15,7 +15,7 @@ The average proportion of correct predictions was **99.722%**. At 95% confidence
 Considering that I didn't touch any parameters on the model, it's extremely accurate.
 ## Visualization
 
-![decision tree](https://github.com/ReaverRage/ACM-Research-coding-challenge-23S/visualization.png)
+![decision tree](https://github.com/ReaverRage/ACM-Research-coding-challenge-23S/blob/main/visualization.png?raw=true)
 ## Run in Colab
 
 Go to [ML_stars.ipynb](https://github.com/ReaverRage/ACM-Research-coding-challenge-23S/blob/main/ML_stars.ipynb)
