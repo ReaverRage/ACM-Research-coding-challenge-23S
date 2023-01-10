@@ -13,6 +13,9 @@ To evaluate the accuracy of the model, I trained and tested the model 30 times w
 The average proportion of correct predictions was **99.722%**. At 95% confidence, the Wilson score interval with continuity correction is **[0.8543 , 0.998]**. The true accuracy of the model is likely within this interval.
 
 Considering that I didn't touch any parameters on the model, it's extremely accurate.
+## Run in Colab
+
+Go to [ML_stars.ipynb](https://github.com/ReaverRage/ACM-Research-coding-challenge-23S/blob/main/ML_stars.ipynb)
 ## Run Locally
 
 To run my project, you'll need the packages **pandas** and **scikit-learn**.
